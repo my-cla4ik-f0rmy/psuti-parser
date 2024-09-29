@@ -1,0 +1,12 @@
+{
+  "name": "psuti-schedule-parser",
+  "version": "1.0.0",
+  "description": "Это приложение на Node.js использует Express и Puppeteer для получения расписания с сайта `portal.psuti.ru`. API позволяет получать расписание по заданному типу и значению (например, группа или преподаватель) с возможностью указания диапазона дат.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
